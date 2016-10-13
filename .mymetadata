@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Cloud2SQL"
+  id="myeclipse.1467343951180"
+  context-root="/Cloud2SQL"
+  j2ee-spec="5.0"
+  archive="Cloud2SQL.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
